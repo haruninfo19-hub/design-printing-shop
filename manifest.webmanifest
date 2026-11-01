@@ -1,0 +1,10 @@
+{
+  "name": "ডিজাইন ও প্রিন্টিং শপ",
+  "short_name": "প্রিন্টিং শপ",
+  "description": "অনলাইন প্রিন্ট অর্ডার",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0756b8",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
